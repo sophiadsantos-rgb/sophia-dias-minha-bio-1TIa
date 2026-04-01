@@ -1,3 +1,46 @@
 body{
 background-color:blueviolet;
 }
+body {
+  font-family: Arial;
+  background-color: red;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+.cima {
+  padding: 20px;
+  border-bottom: 2px solid white;
+}
+
+.baixo {
+  padding: 20px;
+  text-align: center;
+}
+
+h1, h2 {
+  color: white;
+}
+
+p, li, a {
+  font-size: 18px;
+  color: white;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+img {
+  width: 200px;
+  margin: 10px 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
